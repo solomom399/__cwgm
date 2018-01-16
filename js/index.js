@@ -125,13 +125,14 @@ var myObj = function () {
 
 
     this.onBackKeyDown = function (e) {
-        e.preventDefault();
+        // e.preventDefault();
         navigator.notification.confirm(
             'Close App!',
             this.end,            
             '',           
             ['Yes','No']     
         );
+        return false
     }
 
 }
