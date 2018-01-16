@@ -125,14 +125,13 @@ var myObj = function () {
 
 
     this.onBackKeyDown = function (e) {
-        // e.preventDefault();
+        e.preventDefault();
         navigator.notification.confirm(
             'Close App!',
             this.end,            
             '',           
             ['Yes','No']     
         );
-        return false
     }
 
 }
@@ -142,7 +141,7 @@ var myObj = function () {
 var mo = new myObj()
 
 
-mo.onBackKeyDown()
+// mo.onBackKeyDown()
 
 
 mo.find(".hundred").css({
