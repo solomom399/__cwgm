@@ -1,0 +1,140 @@
+TEST SECRET KEY: sk_test_98faa63107c09c0e6987864cd6d611ae9a5de9fd
+
+TEST PUBLIC KEY:pk_test_8fc6f488aafcaafae7417b52a42ca52a1a564e78
+
+pk_live_412fddecc22104c9907bf31025aaf2773eee43bb
+
+
+<meta-data android:name="co.paystack.android.PublicKey" android:value="pk_test_aa65a1064hfhdjjdkdkdkdkeueyeyejek" />
+
+
+var name = '<? echo $name; ?>';
+        var email = '<? echo $email; ?>';
+        var amount = '<? echo $amount; ?>';
+
+
+TIM-EST PAYMENT
+
+MAIN MENU
+
+KG 1
+KG 2
+NURSERY 1
+NURSERY 2
+YEAR 1
+YEAR 2
+YEAR 3
+YEAR 4
+YEAR 5
+YEAR 6
+
+WHEN THE PARENTS CLICK ANY OF THE ABOVE LINK, IT SHOULD NOW BREAK DOWN INTO THIS PAYMENTS BELOW. THEY SHOULD BE ABLE TO SELECT THE ONE THEY WANT TO PAY FOR AT A TIME AND IF THEY WANT TO PAY FOR ALL. JUST SUM IT UP AFTER THEY SELECT ALL.
+
+KG 1
+
+KG 1 - 19,000
+PTA - 1,000
+Graduation Fee - 15,000
+School Event - 6,000
+Day Care - 5,000
+After School - 1,000
+Sportswear - Wednesday 2,500
+Friday 2,000
+
+KG 2
+
+KG 2 - 19,200
+PTA - 1,000
+Graduation Fee - 15,000
+School Event - 6,000
+Day Care - 5,000
+After School - 1,000
+Sportswear - Wednesday 2,500
+Friday 2,000
+
+NURSERY 1
+Nursery 1 - 19,500
+PTA - 1,000
+Graduation Fee - 15,000
+School Event - 6,000
+Day Care - 5,000
+After School - 1,000
+Sportswear - Wednesday 2,500
+Friday 2,000
+
+NURSERY 2
+Nursery 2 - 20,000
+PTA - 1,000
+Graduation Fee - 15,000
+School Event - 6,000
+Day Care - 5,000
+After School - 1,000
+Sportswear - Wednesday 2,500
+Friday 2,000
+
+YEAR 1
+Year 1 - 21,200
+PTA - 1,000
+Graduation Fee - 15,000
+School Event - 6,000
+Day Care - 5,000
+After School - 1,000
+Sportswear - Wednesday 2,500
+Friday 2,000
+
+
+
+YEAR 2
+Year 2 - 21,400
+PTA - 1,000
+Graduation Fee - 15,000
+School Event - 6,000
+Day Care - 5,000
+After School - 1,000
+Sportswear - Wednesday 2,500
+Friday 2,000
+
+YEAR 3
+Year 3 - 21,700
+PTA - 1,000
+Graduation Fee - 15,000
+School Event - 6,000
+Day Care - 5,000
+After School - 1,000
+Sportswear - Wednesday 2,500
+Friday 2,000
+
+YEAR 4
+Year 4 - 22,000
+PTA - 1,000
+Graduation Fee - 15,000
+School Event - 6,000
+Day Care - 5,000
+After School - 1,000
+Sportswear - Wednesday 2,500
+Friday 2,000
+
+YEAR 5
+Year 5 - 22,700
+PTA - 1,000
+Graduation Fee - 15,000
+School Event - 6,000
+Day Care - 5,000
+After School - 1,000
+Sportswear - Wednesday 2,500
+Friday 2,000
+
+YEAR 6
+Year 6 - 23,000
+PTA - 1,000
+Common Entrance - 20,000
+Graduation Fee - 15,000
+School Event - 6,000
+Day Care - 5,000
+After School - 1,000
+Sportswear - Wednesday 2,500
+Friday 2,000
+
+
+
+// inset 0 1px 3px rgba(0,0,0,.2);
